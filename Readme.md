@@ -1,5 +1,5 @@
-o# FlexiMart Data Architecture Project
-Student Name: Pranshu Gupta  
+## FlexiMart Data Architecture Project
+Student Name: Pranshu Gupta
 Student ID: bitsom_ba_25071507
 Email: [pranshu.gupta91@gmail.com]
 Date: January 2026
